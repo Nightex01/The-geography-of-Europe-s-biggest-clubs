@@ -1,34 +1,34 @@
-# The geography of Europe's largest football clubs
+# География крупнейших футбольных клубов Европы
 
-## About the Project
+## О проекте
 
-The project is an interactive geographic map of Europe's largest football clubs, created using QGIS software.
+Проект представляет собой интерактивную географическую карту крупнейших футбольных клубов Европы, созданную в программе QGIS.
 
-The map shows the locations of the football clubs and their respective countries.
+На карте показано расположение футбольных клубов и соответствующих стран.
 
-## Project goal
+## Цель проекта
 
-Visualize the geographic distribution of Europe's largest football clubs using geographic information systems.
+Показать географическое распределение крупнейших футбольных клубов Европы с помощью средств геоинформационных систем.
 
-## Tasks
+## Задачи
 
-- collect data on football clubs;
-- determine the coordinates of the clubs;
-- load the data into QGIS;
-- add a layer of European countries;
-- plot the football clubs on the map;
-- configure labels and styling;
-- create the final map.
+- собрать данные о футбольных клубах;
+- определить координаты клубов;
+- загрузить данные в QGIS;
+- добавить слой стран Европы;
+- разместить футбольные клубы на карте;
+- настроить подписи и оформление;
+- создать итоговую карту.
 
-## Technologies used
+## Использованные технологии
 
 - QGIS
 - CSV
-- Geographic data
-- Cartographic visualization
+- Географические данные
+- Картографическая визуализация
 
-## Result
+## Результат
 
-The project culminates in a map showing the locations of European football clubs..
+Итогом проекта является карта расположения футбольных клубов Европы.
 
-![Map of football clubs](map.png)
+![Карта футбольных клубов](map.png)
